@@ -1,6 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently studying JavaScript
-
+- 🌱 I’m currently learning JavaScript, HTML and CSS
 
 
 <!--
