@@ -1,7 +1,6 @@
 ### H there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 - 🌱 I’m currently learning React, Node and JavaScript.
-![Mychel's GitHub stats](https://github-readme-stats.vercel.app/api?username=
-MychelGarzon&theme=dark&show_icons=true)
+![Mychel's GitHub stats](https://github-readme-stats.vercel.app/api?username=MychelGarzon&theme=dark&show_icons=true)
 <!--
 **MychelGarzon/MychelGarzon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
