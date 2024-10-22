@@ -30,5 +30,4 @@ I have gained experience in various technologies, including:
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">  Git  </code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/actions/actions.png">  GitHub Actions  </code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/05d0f0dfceafd861bdf2b53559399dae7b2e2d8b/topics/figma/figma.png">  Figma  </code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/postman/postman.png"> Postman</code>
 
