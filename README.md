@@ -12,7 +12,6 @@ I'm an officially recognized n8n Verified Creator and won the n8n Tech Challenge
 - Full stack web applications with React, Node.js, TypeScript, and AWS
 - Agentic automation systems that route, classify, and adapt in real time
 
-Currently in the selection process for the n8n Ambassador role in Finland.
 
 ---
 
