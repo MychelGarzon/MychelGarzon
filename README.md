@@ -49,3 +49,4 @@ Currently in the selection process for the n8n Ambassador role in Finland.
 🌐 [mychelgarzon.netlify.app](https://mychelgarzon.netlify.app)
 🏆 Junction 2025 n8n Tech Challenge Winner
 ✅ n8n Verified Creator
+📝 [The Internal IT Automation Stack](https://dev.to/mychelgarzon/the-internal-it-automation-stack-how-growing-saas-companies-use-n8n-to-scale-without-hiring-43aj)
